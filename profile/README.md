@@ -1,11 +1,11 @@
+> [!IMPORTANT]  
+> You are likely not authorized! Most of our resources, such as packages and source code, are under access control. You will need to authenticate to access certain areas of the platform. [Learn more ›](https://operations-monitor-docs.surge.sh/guide/limited-access)
+
 <img src="https://raw.githubusercontent.com/operations-monitor/.github/main/logo.svg" height="128" align="right">
 
 # Operations Monitor
 
-**Tailor-made end-to-end testing framework with advanced infrastructure.**
-
-> [!WARNING]  
-> Operations Monitor is still in development and hasn't been fully tested. Stability isn't guaranteed at this stage. For development updates, check the [milestones](https://github.com/operations-monitor/operations-monitor/milestones).
+**End-to-end testing platform for your web applications.**
 
 <div align="center">
 
@@ -15,4 +15,4 @@
 
 ## Introduction
 
-Operations Monitor is a highly configurable framework for working with and running [end-to-end testing](https://circleci.com/blog/what-is-end-to-end-testing/) at any scale. It combines excellent development and debugging tools as well as state of the art infrastructure for hosting and running end-to-end tests in production. [Read more ›](http://operations-monitor-docs.surge.sh/guide/what-is)
+Operations Monitor is an end-to-end testing platform for web applications. The platform specialises on monitoring operations (features) in your web application. [Read more ›](http://operations-monitor-docs.surge.sh/guide/what-is)
