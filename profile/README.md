@@ -1,6 +1,3 @@
-> [!IMPORTANT]  
-> You are likely not authorized! Most of our resources, such as packages and source code, are under access control. You will need to authenticate to access certain areas of the platform. [Learn more ›](https://operations-monitor-docs.surge.sh/guide/limited-access)
-
 <img src="https://raw.githubusercontent.com/operations-monitor/.github/main/logo.svg" height="128" align="right">
 
 # Operations Monitor
@@ -12,6 +9,11 @@
 ### [Documentation ›](https://operations-monitor-docs.surge.sh)
 
 </div>
+
+## Limited Access!
+
+> [!IMPORTANT]  
+> You are likely not authorized! Most of our resources, such as packages and source code, are under access control. You will need to authenticate to access certain areas of the platform. [Learn more ›](https://operations-monitor-docs.surge.sh/guide/limited-access)
 
 ## Introduction
 
